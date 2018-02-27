@@ -7,7 +7,7 @@ Just skin :D
 - Unpack
 - Copy to your Serum Skins folder
 
-## Donate?
+## Support Me
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/re23071998/)
 
 ## Preview
