@@ -8,7 +8,7 @@ Just skin :D
 - Copy to your Serum Skins folder
 
 ## Support Me
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/re23071998/)
+PayPal : re23071998@gmail.com
 
 ## Preview
 
