@@ -8,7 +8,7 @@ Just skin :D
 - Copy to your Serum Skins folder
 
 ## Support Me
-PayPal : re23071998@gmail.com
+paypal.me/re23071998
 
 ## Preview
 
